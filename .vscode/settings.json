@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./YT_api_project",
+        "./YT_api_project",
+        "./YT_api_project",
+        "./YT_api_project"
+    ]
+}
